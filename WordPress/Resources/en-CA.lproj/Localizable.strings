@@ -5541,7 +5541,7 @@ translators: sample content for \"Services\" page template */
 "Tap to customize insights" = "Tap to customize insights";
 
 /* Accessibility hint */
-"Tap to dismiss this card" = "Tap to dismiss this card";
+"Tap to dismiss this card" = "Tap to dismiss this card Jasper";
 
 /* Message in a row indicating to tap to enter a custom value */
 "Tap to enter a custom value" = "Tap to enter a custom value";
